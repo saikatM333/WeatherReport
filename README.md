@@ -17,3 +17,6 @@ use the example-json file to take the json body for each api end point
 GET - http://127.0.0.1:8000/api/weather/daily_summary/
 Get - http://127.0.0.1:8000/api/weather/name/Delhi
 GET - http://127.0.0.1:8000/api/weather
+
+### ** cities included ** ###
+  "Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"
