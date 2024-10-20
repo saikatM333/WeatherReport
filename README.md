@@ -2,8 +2,8 @@
  ### **step 1 - clone the project**
      git clone https://github.com/saikatM333/WeatherReport.git
  ### **step 2 - there are 2 setup project**
-     1 -setup.sh for running the application if python is installed in the client device 
-     2- setup-docker.sh for running the application in the docker 
+     1 -`setup.sh for running the application if python is installed in the client device `
+     2- `setupDocker.sh for running the application in the docker `
  ## choose based on ypur prefrence 3.1 or 3.2 ##    
  ### **step 3.1 - If using `setup.sh`, the commands to be followed are:***
    
