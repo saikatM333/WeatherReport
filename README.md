@@ -4,9 +4,10 @@
      1 -setup.sh for running the application is python is installed in the client device 
      2- setup-docker.sh for running the application in the docker 
  ### **step 3 - make the script excutable, choose the commond based on the prefrence***
-     1- ```if using setup.sh , commond to be followed 
-        chmod +x setup.sh
-        ./setup.sh
+     **If using `setup.sh`, the commands to be followed are:**
+   ```bash
+   chmod +x setup.sh
+   ./setup.sh
      2- ```if using setup-docker.sh, command to be followed 
         chmod +x setup-docker.sh
         ./setup-docker.sh
