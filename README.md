@@ -1,7 +1,7 @@
 ## **How to use**
  ### **step 1 - clone the project**
  ### **step 2 - there are 2 setup project**
-     1 -setup.sh for running the application is python is installed in the client device 
+     1 -setup.sh for running the application if python is installed in the client device 
      2- setup-docker.sh for running the application in the docker 
  ### **step 3 - make the script excutable, choose the commond based on the prefrence***
      1-If using `setup.sh`, the commands to be followed are:**
