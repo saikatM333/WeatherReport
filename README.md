@@ -15,7 +15,7 @@
         chmod +x setupDocker.sh
         ./setupDocker.sh      
   ### ** Note : step 4 - it will ask secret Key and api key ** ###
-     for secret key just press the enter key it will automaticaly genearate the it 
+     for secret key just press the enter key it will automaticaly genearate it 
      for api key use your open wether api key 
 ### **step 5 - now project is running in the port =8000**
 
