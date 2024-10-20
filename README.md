@@ -10,10 +10,10 @@
          chmod +x setup.sh
          ./setup.sh
      
-  ### **step 3.2 - if using `setup-docker.sh`, command to be followed***
+  ### **step 3.2 - if using `setupDocker.sh`, command to be followed***
     
-        chmod +x setup-docker.sh
-        ./setup-docker.sh      
+        chmod +x setupDocker.sh
+        ./setupDocker.sh      
 ### **step 4 - now project is running in the port =8000**
 
 
