@@ -11,7 +11,7 @@
         chmod +x setup-docker.sh
         ./setup-docker.sh
 ### **step 4 - now project is running in the port =8000**
-use the example-json file to take the json body for each api end point
+
 
 ### ** Api endpoints **
 GET - http://127.0.0.1:8000/api/weather/daily_summary/
